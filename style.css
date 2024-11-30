@@ -1,0 +1,28 @@
+.per {
+    color: aqua;
+    height: 700px;
+    widows: 600px;
+    border: 3px solid rgb(33, 33, 66);
+    background-color: black;
+    box-shadow: rgb(1, 21, 27) 2px 6px 8px 11px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.box
+{
+    width:90px;
+    height:50px ;
+    border: 1px solid rgb(10, 21, 25);
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: lightseagreen 3px 5px 4px 4px;
+    
+}
+   
+.box:hover 
+{
+    color: rgb(26, 95, 95);
+    background-color: #000000;
+    box-shadow: rgb(26, 54, 53) 3px 5px 4px 4px;
+}
